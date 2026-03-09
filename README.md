@@ -165,5 +165,5 @@ GitHub Search API
 ---
 
 ## License
-
+如果这个项目对你有帮助，点击右上角 ⭐ Star 是对我最大的鼓励！
 MIT
