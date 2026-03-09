@@ -2,7 +2,7 @@
 
 > **自动化评估 OpenClaw 生态技能包的安全风险，帮助企业 IT 决策者规避 AI Agent 供应链威胁。**
 
-🔗 **Live Demo** → [your-username.github.io/openclaw-risk-scanner](https://your-username.github.io/openclaw-risk-scanner)
+🔗 **Live Demo** → [your-username.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
 
 ![自动更新](https://img.shields.io/badge/更新频率-每日-38bdf8)
 ![Python](https://img.shields.io/badge/Python-3.11-4ade80)
