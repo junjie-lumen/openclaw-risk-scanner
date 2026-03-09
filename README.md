@@ -2,7 +2,7 @@
 
 > **自动化评估 OpenClaw 生态技能包的安全风险，帮助企业 IT 决策者规避 AI Agent 供应链威胁。**
 
-🔗 **Live Demo** → [your-username.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
+🔗 **Live Demo** → [jackart001.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
 
 ![自动更新](https://img.shields.io/badge/更新频率-每日-38bdf8)
 ![Python](https://img.shields.io/badge/Python-3.11-4ade80)
@@ -21,6 +21,32 @@
 
 本项目构建了一套基于规则引擎的自动化评估框架，每日运行，结果公开透明。
 
+---
+## 使用说明
+
+**直接查看报告**
+👉 [jackart001.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
+
+报告每日自动更新，无需安装任何东西。
+
+**自己部署（Fork 教程）**
+🔲 完整 Fork 教程撰写中，敬请期待。
+---
+## 已实现
+
+- ✅ 三维评分框架（安全可信度 · 维护健康度 · 社区信誉度）
+- ✅ Mistral AI 自动识别真实 OpenClaw 技能包
+- ✅ 每日自动扫描，每周自动发现新技能包
+- ✅ GitHub Pages 免费托管，报告实时可访问
+
+## 开发计划
+
+- 🔲 报告支持按风险 / Star 数 / 发布时间排序
+- 🔲 中英文双语报告
+- 🔲 Fork 一键部署教程
+- 🔲 扩展至其他 AI Agent 社区（LangChain / AutoGen）
+- 🔲 将扫描器封装为 OpenClaw 原生技能包
+- 🔲 关注包评级变化时飞书推送告警
 ---
 
 ## 快速上手
