@@ -1,0 +1,62 @@
+name: Daily Risk Scan
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+    inputs:
+      run_discovery:
+        description: '是否同时运行自动发现（true/false）'
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    if: |
+      github.event.schedule == '0 2 * * 1' ||
+      github.event.inputs.run_discovery == 'true'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: 自动发现新技能包
+        env:
+          GITHUB_TOKEN:    ${{ secrets.GITHUB_TOKEN }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: python -m src.discovery
+      - name: 提交更新后的 repos.txt
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add repos.txt
+          git diff --cached --quiet || git commit -m "chore: auto-discovered new skill repos"
+          git push
+
+  scan:
+    runs-on: ubuntu-latest
+    needs: [discover]
+    if: always()
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: 运行风险扫描
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python main.py
+      - name: 发布到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          commit_message: "chore: auto update risk report"
