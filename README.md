@@ -6,6 +6,7 @@
 
 ![自动更新](https://img.shields.io/badge/更新频率-每日-38bdf8)
 ![Python](https://img.shields.io/badge/Python-3.11-4ade80)
+![Mistral](https://img.shields.io/badge/Mistral-AI分类-f97316)
 ![License](https://img.shields.io/badge/License-MIT-f59e0b)
 
 ---
@@ -101,21 +102,29 @@ python main.py --list repos.txt
 ## 技术架构
 
 ```
-GitHub API
+GitHub Search API
     │
-    ├─ fetch_repo()      基础信息 + 作者账号数据
-    ├─ fetch_issues()    已关闭 Issue（响应时长 + 负面词检测）
-    ├─ fetch_source()    下载 zip，提取 .py/.js/.ts 文件
-    └─ fetch_readme()    README 原文（权限声明检测）
+    └─ discovery.py      多关键词搜索候选仓库
          │
-    scorer.py            规则引擎，确定性评分，结果可解释
+    Mistral AI           判断是否为真实 OpenClaw 技能包
          │
-    reporter.py          生成静态 HTML 报告
+    repos.txt            通过审核的仓库清单（每周自动更新）
          │
-    GitHub Pages         公开托管，每日自动更新
+    GitHub API
+         ├─ fetch_repo()      基础信息 + 作者账号数据
+         ├─ fetch_issues()    Issue 响应时长 + 负面词检测
+         ├─ fetch_source()    下载源码，关键词扫描
+         └─ fetch_readme()    权限声明检测
+              │
+         scorer.py            规则引擎评分（确定性，可解释）
+              │
+         reporter.py          生成静态 HTML 报告
+              │
+         GitHub Pages         每日自动发布
 ```
 
-有意选择**规则引擎而非 LLM 分析**的原因：结果完全确定性，可解释，无 API 成本，适合持续自动化运行。
+**关键设计决策**：发现阶段用 Mistral AI 做语义分类（判断"是不是真正的 OpenClaw 技能包"），
+评分阶段用规则引擎（保证结果确定性和可解释性）。两个阶段各用最合适的工具，互不干扰。
 
 ---
 
