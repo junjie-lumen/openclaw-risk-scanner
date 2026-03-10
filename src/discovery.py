@@ -21,6 +21,11 @@ SEARCH_QUERIES = [
     "openclaw skill in:readme",
     "openclaw plugin in:readme",
     "openclaw-skill in:name",
+    "openclaw extension in:readme",
+    "openclaw-agent in:name",
+    "claw-skill in:name",
+    "openclaw tool in:readme",
+    "topic:claw-skill",
 ]
 
 
