@@ -27,7 +27,7 @@
     "description": "AI-powered trading edge for Polymarket — smart money tracking, signals, auto-trading"
   },
   {
-    "total": 80,
+    "total": 79,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -36,7 +36,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -47,7 +47,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 28 天（疑似一次性账号）"
+      "发布者账号创建仅 29 天（疑似一次性账号）"
     ],
     "owner": "ALT-F1-OpenClaw",
     "repo": "openclaw-skill-template",
@@ -111,7 +111,7 @@
     "owner": "YouMind-OpenLab",
     "repo": "nano-banana-pro-prompts-recommend-skill",
     "repo_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1274,
+    "stars": 1282,
     "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images."
   },
   {
@@ -165,7 +165,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 28 天（疑似一次性账号）"
+      "发布者账号创建仅 29 天（疑似一次性账号）"
     ],
     "owner": "ALT-F1-OpenClaw",
     "repo": "openclaw-skill-atlassian-jira",
@@ -426,7 +426,7 @@
     },
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
-      "发布者账号创建仅 14 天（疑似一次性账号）",
+      "发布者账号创建仅 15 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "suqi-tech",
@@ -484,7 +484,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 17 天（疑似一次性账号）"
+      "发布者账号创建仅 18 天（疑似一次性账号）"
     ],
     "owner": "seekcontext",
     "repo": "mindkeeper",
@@ -518,7 +518,7 @@
     "owner": "prompt-security",
     "repo": "clawsec",
     "repo_url": "https://github.com/prompt-security/clawsec",
-    "stars": 810,
+    "stars": 815,
     "description": "A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
   },
   {
@@ -531,7 +531,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 85,
+        "score": 84,
         "weight": "30%"
       },
       "reputation": {
@@ -541,7 +541,7 @@
     },
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
-      "发布者账号较新（33 天）"
+      "发布者账号较新（34 天）"
     ],
     "owner": "clawtrustmolts",
     "repo": "clawtrust-skill",
@@ -577,7 +577,7 @@
     "owner": "deborahikssv",
     "repo": "Antigravity-claw",
     "repo_url": "https://github.com/deborahikssv/Antigravity-claw",
-    "stars": 168,
+    "stars": 170,
     "description": null
   },
   {
@@ -601,7 +601,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（48 天）",
+      "发布者账号较新（49 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "Heartflabrace",
@@ -632,44 +632,13 @@
       "检测到 4 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（48 天）",
+      "发布者账号较新（49 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "Needvainverter93",
     "repo": "deepseek-claw",
     "repo_url": "https://github.com/Needvainverter93/deepseek-claw",
     "stars": 7,
-    "description": null
-  },
-  {
-    "total": 68,
-    "level": "REVIEW",
-    "label": "⚠️  建议人工复核后使用",
-    "breakdown": {
-      "safety": {
-        "score": 70,
-        "weight": "50%"
-      },
-      "maintenance": {
-        "score": 54,
-        "weight": "30%"
-      },
-      "reputation": {
-        "score": 85,
-        "weight": "20%"
-      }
-    },
-    "flags": [
-      "检测到 4 处网络外发调用且 README 无说明",
-      "检测到 5 处环境变量/文件/剪贴板访问",
-      "无已关闭 Issue 记录，响应速度未知",
-      "未检测到语义化版本号或 Release 记录",
-      "发布者仅有 2 个公开仓库，背景单薄"
-    ],
-    "owner": "helenigtxu",
-    "repo": "TradingView-Claw",
-    "repo_url": "https://github.com/helenigtxu/TradingView-Claw",
-    "stars": 252,
     "description": null
   },
   {
@@ -693,13 +662,13 @@
     "flags": [
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
-      "发布者账号创建仅 14 天（疑似一次性账号）",
+      "发布者账号创建仅 15 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "openstockdata",
     "repo": "stock-data-skill",
     "repo_url": "https://github.com/openstockdata/stock-data-skill",
-    "stars": 7,
+    "stars": 8,
     "description": "OpenClaw Skill for stock data analysis"
   },
   {
@@ -810,13 +779,13 @@
     },
     "flags": [
       "检测到 13 处危险系统调用（exec/subprocess等）",
-      "检测到 25 处环境变量/文件/剪贴板访问",
+      "检测到 27 处环境变量/文件/剪贴板访问",
       "Issue 中出现 2 次安全相关负面词汇"
     ],
     "owner": "dataelement",
     "repo": "Clawith",
     "repo_url": "https://github.com/dataelement/Clawith",
-    "stars": 1842,
+    "stars": 1929,
     "description": "OpenClaw for Teams"
   },
   {
@@ -840,21 +809,21 @@
     "flags": [
       "检测到 20 处危险系统调用（exec/subprocess等）",
       "检测到 11 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 37 次安全相关负面词汇"
+      "Issue 中出现 36 次安全相关负面词汇"
     ],
     "owner": "sepivip",
     "repo": "SeekerClaw",
     "repo_url": "https://github.com/sepivip/SeekerClaw",
-    "stars": 61,
+    "stars": 62,
     "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent"
   },
   {
-    "total": 55,
+    "total": 40,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
       "safety": {
-        "score": 30,
+        "score": 0,
         "weight": "50%"
       },
       "maintenance": {
@@ -867,10 +836,11 @@
       }
     },
     "flags": [
+      "README 未声明所需权限",
       "检测到 5 处危险系统调用（exec/subprocess等）",
       "检测到 5 处网络外发调用且 README 无说明",
       "检测到 9 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 9 次安全相关负面词汇"
+      "Issue 中出现 12 次安全相关负面词汇"
     ],
     "owner": "ReScienceLab",
     "repo": "DAP",
@@ -900,12 +870,12 @@
       "README 未声明所需权限",
       "检测到 2 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（49 天）"
+      "发布者账号较新（50 天）"
     ],
     "owner": "AIWerk",
     "repo": "openclaw-mcp-bridge",
     "repo_url": "https://github.com/AIWerk/openclaw-mcp-bridge",
-    "stars": 5,
+    "stars": 6,
     "description": "OpenClaw MCP Client Plugin - bridges MCP servers into OpenClaw via registerTool"
   },
   {
@@ -933,7 +903,7 @@
     "owner": "openguardrails",
     "repo": "openguardrails",
     "repo_url": "https://github.com/openguardrails/openguardrails",
-    "stars": 309,
+    "stars": 310,
     "description": "Security guard for OpenClaw. Protect Agents with real-time defense against prompt injection, data leaks, and dangerous actions."
   },
   {
@@ -993,7 +963,7 @@
     "repo": "Enso",
     "repo_url": "https://github.com/Proxy2021/Enso",
     "stars": 0,
-    "description": "Claude Code-powered AI agent — answers any question with the best interactive experience, tackles any task with full engineering team capability"
+    "description": "An AI sandbox that generates complete solutions — discovers opportunities, assembles AI teams to build, self-evolves, and ships products"
   },
   {
     "total": 40,
@@ -1018,13 +988,13 @@
       "检测到 19 处危险系统调用（exec/subprocess等）",
       "检测到 19 处环境变量/文件/剪贴板访问",
       "Issue 中出现 4 次安全相关负面词汇",
-      "发布者账号创建仅 1 天（疑似一次性账号）",
+      "发布者账号创建仅 2 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "zjowowen",
     "repo": "InnoClaw",
     "repo_url": "https://github.com/zjowowen/InnoClaw",
-    "stars": 162,
+    "stars": 174,
     "description": "An AI research Agent for scientific innovation."
   },
   {
@@ -1079,7 +1049,7 @@
       "检测到 24 处环境变量/文件/剪贴板访问",
       "Issue 平均关闭时长 30 天",
       "Issue 中出现 12 次安全相关负面词汇",
-      "发布者账号创建仅 18 天（疑似一次性账号）",
+      "发布者账号创建仅 19 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "hugging-leg",
@@ -1111,7 +1081,7 @@
       "检测到 5 处危险系统调用（exec/subprocess等）",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 11 天（疑似一次性账号）",
+      "发布者账号创建仅 12 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "get-Lucid",
@@ -1160,7 +1130,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 85,
+        "score": 84,
         "weight": "30%"
       },
       "reputation": {
@@ -1201,7 +1171,7 @@
       "检测到 3 处网络外发调用且 README 无说明",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（78 天）",
+      "发布者账号较新（79 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "tariffxai",
@@ -1250,7 +1220,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 70,
+        "score": 69,
         "weight": "30%"
       },
       "reputation": {
@@ -1393,7 +1363,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 100,
+        "score": 99,
         "weight": "30%"
       },
       "reputation": {
@@ -1441,12 +1411,12 @@
     "description": null
   },
   {
-    "total": 80,
+    "total": 81,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
       "safety": {
-        "score": 72,
+        "score": 62,
         "weight": "50%"
       },
       "maintenance": {
@@ -1454,20 +1424,19 @@
         "weight": "30%"
       },
       "reputation": {
-        "score": 70,
+        "score": 100,
         "weight": "20%"
       }
     },
     "flags": [
-      "检测到 2 处危险系统调用（exec/subprocess等）",
-      "检测到 1 处网络外发调用且 README 无说明",
-      "Issue 中出现 2 次安全相关负面词汇"
+      "检测到 3 处危险系统调用（exec/subprocess等）",
+      "检测到 1 处网络外发调用且 README 无说明"
     ],
     "owner": "tencent-connect",
     "repo": "openclaw-qqbot",
     "repo_url": "https://github.com/tencent-connect/openclaw-qqbot",
-    "stars": 241,
-    "description": "QQ Bot Channel Plugin for OpenClaw "
+    "stars": 1174,
+    "description": "qqbot"
   },
   {
     "total": 55,
@@ -1496,7 +1465,7 @@
     "owner": "alirezarezvani",
     "repo": "claude-skills",
     "repo_url": "https://github.com/alirezarezvani/claude-skills",
-    "stars": 6089,
+    "stars": 6195,
     "description": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory."
   },
   {
@@ -1538,7 +1507,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -1553,7 +1522,7 @@
     "owner": "win4r",
     "repo": "OpenClaw-Skill",
     "repo_url": "https://github.com/win4r/OpenClaw-Skill",
-    "stars": 238,
+    "stars": 246,
     "description": null
   },
   {
@@ -1676,7 +1645,7 @@
     "owner": "blessonism",
     "repo": "openclaw-search-skills",
     "repo_url": "https://github.com/blessonism/openclaw-search-skills",
-    "stars": 335,
+    "stars": 342,
     "description": "OpenClaw skills for deep search — multi-source search, content extraction, and structured research reports."
   },
   {
@@ -1702,7 +1671,7 @@
       "检测到 25 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（48 天）"
+      "发布者账号较新（49 天）"
     ],
     "owner": "arc-claw-bot",
     "repo": "fulcra-openclaw-skills",
@@ -1752,7 +1721,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -1918,7 +1887,7 @@
       "检测到 3 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（87 天）"
+      "发布者账号较新（88 天）"
     ],
     "owner": "machine-machine",
     "repo": "openclaw-tts-skill",
@@ -1947,7 +1916,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 28 天（疑似一次性账号）"
+      "发布者账号创建仅 29 天（疑似一次性账号）"
     ],
     "owner": "ALT-F1-OpenClaw",
     "repo": "openclaw-skill-m365-task-manager",
@@ -1976,7 +1945,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 28 天（疑似一次性账号）"
+      "发布者账号创建仅 29 天（疑似一次性账号）"
     ],
     "owner": "ALT-F1-OpenClaw",
     "repo": "openclaw-skill-x-twitter",
@@ -2005,7 +1974,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 28 天（疑似一次性账号）"
+      "发布者账号创建仅 29 天（疑似一次性账号）"
     ],
     "owner": "ALT-F1-OpenClaw",
     "repo": "openclaw-skill-sharepoint",
@@ -2050,7 +2019,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 84,
+        "score": 83,
         "weight": "30%"
       },
       "reputation": {
@@ -2093,7 +2062,7 @@
       "检测到 16 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 5 次安全相关负面词汇",
-      "发布者账号较新（47 天）"
+      "发布者账号较新（48 天）"
     ],
     "owner": "garibong-labs",
     "repo": "openclaw-skills",
@@ -2366,16 +2335,16 @@
     "description": "Automatically creates unit test templates from function signatures and docstrings in Python code."
   },
   {
-    "total": 81,
-    "level": "REVIEW",
-    "label": "⚠️  建议人工复核后使用",
+    "total": 85,
+    "level": "SAFE",
+    "label": "✅ 推荐使用",
     "breakdown": {
       "safety": {
         "score": 90,
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 66,
         "weight": "30%"
       },
       "reputation": {
@@ -2385,13 +2354,12 @@
     },
     "flags": [
       "检测到 4 处环境变量/文件/剪贴板访问",
-      "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "Rohit24567",
     "repo": "HyperLiquid-Claw",
     "repo_url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-    "stars": 241,
+    "stars": 242,
     "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant Openclaw full access to Hyperliquid DEX"
   },
   {
@@ -2982,13 +2950,13 @@
     "flags": [
       "检测到 16 处危险系统调用（exec/subprocess等）",
       "检测到 3 处网络外发调用且 README 无说明",
-      "检测到 40 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 37 次安全相关负面词汇"
+      "检测到 41 处环境变量/文件/剪贴板访问",
+      "Issue 中出现 41 次安全相关负面词汇"
     ],
     "owner": "alibaba",
     "repo": "hiclaw",
     "repo_url": "https://github.com/alibaba/hiclaw",
-    "stars": 2692,
+    "stars": 2762,
     "description": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms."
   },
   {
@@ -3016,7 +2984,7 @@
     "owner": "beam-cloud",
     "repo": "airstore",
     "repo_url": "https://github.com/beam-cloud/airstore",
-    "stars": 168,
+    "stars": 169,
     "description": "The filesystem for AI agents"
   },
   {
@@ -3042,7 +3010,7 @@
       "检测到 17 处网络外发调用且 README 无说明",
       "检测到 255 处环境变量/文件/剪贴板访问",
       "Issue 中出现 28 次安全相关负面词汇",
-      "发布者账号较新（42 天）"
+      "发布者账号较新（43 天）"
     ],
     "owner": "swarm-ai-safety",
     "repo": "swarm",
@@ -3072,7 +3040,7 @@
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 23 次安全相关负面词汇",
-      "发布者账号较新（37 天）"
+      "发布者账号较新（38 天）"
     ],
     "owner": "JIGGAI",
     "repo": "ClawKitchen",
@@ -3107,7 +3075,7 @@
     "owner": "CherryHQ",
     "repo": "cherry-studio",
     "repo_url": "https://github.com/CherryHQ/cherry-studio",
-    "stars": 41907,
+    "stars": 42002,
     "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
   },
   {
@@ -3168,7 +3136,7 @@
     "description": "Coordinate your AI agent team. Shared tasks, memory, reflections, and presence. Self-host for free."
   },
   {
-    "total": 71,
+    "total": 72,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -3177,7 +3145,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 53,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -3291,7 +3259,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 100,
+        "score": 99,
         "weight": "30%"
       },
       "reputation": {
@@ -3306,7 +3274,7 @@
     "owner": "unmodeled-tyler",
     "repo": "quanta-vessel-browser",
     "repo_url": "https://github.com/unmodeled-tyler/quanta-vessel-browser",
-    "stars": 10,
+    "stars": 11,
     "description": "Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes Agent, OpenClaw, or connect to your favorite API provider."
   },
   {
@@ -3339,7 +3307,7 @@
     "description": null
   },
   {
-    "total": 83,
+    "total": 84,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -3348,7 +3316,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 53,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -3368,7 +3336,7 @@
     "description": null
   },
   {
-    "total": 62,
+    "total": 61,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -3377,7 +3345,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -3496,7 +3464,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 84,
+        "score": 85,
         "weight": "30%"
       },
       "reputation": {
@@ -3509,12 +3477,12 @@
       "检测到 5 处危险系统调用（exec/subprocess等）",
       "检测到 1 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
-      "发布者账号创建仅 12 天（疑似一次性账号）"
+      "发布者账号创建仅 13 天（疑似一次性账号）"
     ],
     "owner": "wentorai",
     "repo": "research-plugins",
     "repo_url": "https://github.com/wentorai/research-plugins",
-    "stars": 151,
+    "stars": 156,
     "description": "350+ academic research skills, MCP configs, and plugins for Research-Claw and AI agents"
   },
   {
@@ -3689,7 +3657,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（35 天）"
+      "发布者账号较新（36 天）"
     ],
     "owner": "imnotaltman",
     "repo": "openclaw-skills",
@@ -3698,12 +3666,12 @@
     "description": "Skill definitions for OpenClaw autonomous AI agent."
   },
   {
-    "total": 48,
-    "level": "CAUTION",
-    "label": "🔶 仅限受控环境测试",
+    "total": 34,
+    "level": "DANGER",
+    "label": "❌ 禁止在生产环境使用",
     "breakdown": {
       "safety": {
-        "score": 30,
+        "score": 0,
         "weight": "50%"
       },
       "maintenance": {
@@ -3716,12 +3684,13 @@
       }
     },
     "flags": [
-      "检测到 19 处危险系统调用（exec/subprocess等）",
+      "README 未声明所需权限",
+      "检测到 20 处危险系统调用（exec/subprocess等）",
       "检测到 11 处网络外发调用且 README 无说明",
       "检测到 58 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者仅有 1 个公开仓库，背景单薄"
+      "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "L-LesterYu",
     "repo": "OpenClaw-hot-skills-zh",
@@ -3739,7 +3708,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 70,
+        "score": 69,
         "weight": "30%"
       },
       "reputation": {
@@ -3769,7 +3738,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -4074,7 +4043,7 @@
       "检测到 12 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（69 天）"
+      "发布者账号较新（70 天）"
     ],
     "owner": "xgimiapoll-code",
     "repo": "openclaw-skill-exchange",
@@ -4402,7 +4371,7 @@
     "owner": "Seeed-Solution",
     "repo": "MeshClaw",
     "repo_url": "https://github.com/Seeed-Solution/MeshClaw",
-    "stars": 40,
+    "stars": 41,
     "description": "MeshClaw — OpenClaw channel plugin for Meshtastic LoRa mesh networks"
   },
   {
@@ -4425,13 +4394,13 @@
     },
     "flags": [
       "Issue 中出现 2 次安全相关负面词汇",
-      "发布者账号创建仅 15 天（疑似一次性账号）",
+      "发布者账号创建仅 16 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "AlexsJones",
     "repo": "sympozium",
     "repo_url": "https://github.com/AlexsJones/sympozium",
-    "stars": 311,
+    "stars": 316,
     "description": "Run a fleet of AI agents on Kubernetes. Administer your cluster agentically"
   },
   {
@@ -4481,8 +4450,8 @@
       }
     },
     "flags": [
-      "检测到 36 处危险系统调用（exec/subprocess等）",
-      "检测到 62 处环境变量/文件/剪贴板访问",
+      "检测到 38 处危险系统调用（exec/subprocess等）",
+      "检测到 70 处环境变量/文件/剪贴板访问",
       "Issue 中出现 11 次安全相关负面词汇"
     ],
     "owner": "webthree549-bot",
@@ -4512,18 +4481,18 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 108 处危险系统调用（exec/subprocess等）",
-      "检测到 63 处网络外发调用且 README 无说明",
-      "检测到 199 处环境变量/文件/剪贴板访问",
+      "检测到 64 处网络外发调用且 README 无说明",
+      "检测到 206 处环境变量/文件/剪贴板访问",
       "Issue 中出现 2 次安全相关负面词汇"
     ],
     "owner": "vllm-project",
     "repo": "semantic-router",
     "repo_url": "https://github.com/vllm-project/semantic-router",
-    "stars": 3478,
+    "stars": 3489,
     "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge"
   },
   {
-    "total": 62,
+    "total": 61,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -4532,7 +4501,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -4544,7 +4513,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 11 天（疑似一次性账号）",
+      "发布者账号创建仅 12 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "Taprclaw-ai-agent",
@@ -4582,12 +4551,12 @@
     "description": "滴答清单 (Dida365/TickTick) MCP Server - 让 AI 助手控制你的滴答清单 | For OpenClaw, Claude Desktop & any MCP client"
   },
   {
-    "total": 63,
+    "total": 60,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
       "safety": {
-        "score": 52,
+        "score": 40,
         "weight": "50%"
       },
       "maintenance": {
@@ -4595,20 +4564,19 @@
         "weight": "30%"
       },
       "reputation": {
-        "score": 35,
+        "score": 50,
         "weight": "20%"
       }
     },
     "flags": [
-      "检测到 9 处危险系统调用（exec/subprocess等）",
-      "检测到 1 处网络外发调用且 README 无说明",
-      "Issue 中出现 36 次安全相关负面词汇",
-      "发布者账号较新（89 天）"
+      "检测到 23 处危险系统调用（exec/subprocess等）",
+      "检测到 17 处网络外发调用且 README 无说明",
+      "Issue 中出现 34 次安全相关负面词汇"
     ],
     "owner": "BlockRunAI",
     "repo": "ClawRouter",
     "repo_url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 5713,
+    "stars": 5995,
     "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402."
   },
   {
@@ -4697,11 +4665,11 @@
     "owner": "lekt9",
     "repo": "openclaw-foundry",
     "repo_url": "https://github.com/lekt9/openclaw-foundry",
-    "stars": 299,
+    "stars": 307,
     "description": "The forge that forges itself. Self-writing meta-extension for OpenClaw.ai"
   },
   {
-    "total": 52,
+    "total": 51,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -4710,7 +4678,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -4865,7 +4833,7 @@
       "检测到 1 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 12 天（疑似一次性账号）",
+      "发布者账号创建仅 13 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "Evan-ST",
@@ -4895,7 +4863,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 27 天（疑似一次性账号）"
+      "发布者账号创建仅 28 天（疑似一次性账号）"
     ],
     "owner": "ppopen",
     "repo": "openclaw-skill-git-manager",
@@ -4960,7 +4928,7 @@
     "description": "Document text extraction MCP server — HWP, HWPX, DOCX, XLSX, PPTX, PDF support"
   },
   {
-    "total": 72,
+    "total": 71,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -4969,7 +4937,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -4989,9 +4957,9 @@
     "description": "The Foundational Mainhead. Multi-agent orchestration engine enforcing the RALPH v2 protocol across the ecosystem."
   },
   {
-    "total": 61,
-    "level": "CAUTION",
-    "label": "🔶 仅限受控环境测试",
+    "total": 65,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
     "breakdown": {
       "safety": {
         "score": 70,
@@ -5002,7 +4970,7 @@
         "weight": "30%"
       },
       "reputation": {
-        "score": 50,
+        "score": 70,
         "weight": "20%"
       }
     },
@@ -5010,7 +4978,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 29 天（疑似一次性账号）",
+      "发布者账号较新（30 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "IntellionMind",
@@ -5044,7 +5012,7 @@
     "owner": "goldmar",
     "repo": "openclaw-code-agent",
     "repo_url": "https://github.com/goldmar/openclaw-code-agent",
-    "stars": 17,
+    "stars": 18,
     "description": null
   },
   {
@@ -5086,7 +5054,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -5134,7 +5102,7 @@
     "description": null
   },
   {
-    "total": 62,
+    "total": 61,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -5143,7 +5111,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -5155,7 +5123,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 11 天（疑似一次性账号）",
+      "发布者账号创建仅 12 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "Taprclaw-ai-agent",
@@ -5206,7 +5174,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -5227,7 +5195,7 @@
     "description": null
   },
   {
-    "total": 71,
+    "total": 72,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -5236,7 +5204,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -5380,7 +5348,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -5528,7 +5496,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -5569,7 +5537,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（73 天）",
+      "发布者账号较新（74 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "LeoandLeon",
@@ -5600,7 +5568,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（39 天）",
+      "发布者账号较新（40 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "karausab590-ops",
@@ -5669,7 +5637,7 @@
     "owner": "HuangYuChuh",
     "repo": "ComfyUI_Skills_OpenClaw",
     "repo_url": "https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw",
-    "stars": 89,
+    "stars": 97,
     "description": "A powerful ComfyUI workflow skill for OpenClaw and other AI agents that support skills."
   },
   {
@@ -5750,7 +5718,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 15 天（疑似一次性账号）",
+      "发布者账号创建仅 16 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "0xblinks-tech",
@@ -5786,7 +5754,7 @@
     "owner": "docuspeed",
     "repo": "claw-skills",
     "repo_url": "https://github.com/docuspeed/claw-skills",
-    "stars": 68,
+    "stars": 70,
     "description": "龙虾技能集合"
   },
   {
@@ -5898,7 +5866,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（70 天）",
+      "发布者账号较新（71 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "streamify-one",
@@ -5934,7 +5902,7 @@
     "owner": "FreedomIntelligence",
     "repo": "OpenClaw-Medical-Skills",
     "repo_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-    "stars": 1469,
+    "stars": 1503,
     "description": "The largest open-source medical AI skills library for OpenClaw🦞."
   },
   {
@@ -6020,7 +5988,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（70 天）"
+      "发布者账号较新（71 天）"
     ],
     "owner": "zhuzhipeng-123",
     "repo": "claw_skill",
@@ -6126,7 +6094,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 53,
         "weight": "30%"
       },
       "reputation": {
@@ -6371,7 +6339,7 @@
       }
     },
     "flags": [
-      "发布者账号创建仅 8 天（疑似一次性账号）",
+      "发布者账号创建仅 9 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "whateverai-ai",
@@ -6434,7 +6402,7 @@
     "owner": "0xNyk",
     "repo": "xint",
     "repo_url": "https://github.com/0xNyk/xint",
-    "stars": 70,
+    "stars": 72,
     "description": "X Intelligence CLI — search, monitor, analyze, and engage on X/Twitter. TypeScript + Bun. AI agent skill."
   },
   {
@@ -6551,9 +6519,9 @@
     "description": "OpenClaw Voice is a small Python CLI that turns a UTF-8 text file into cloned speech using Qwen TTS and sends the final audio as an MP3 attachment through a configured Discord bot. Audio generation runs locally on your own machine, so it does not depend on a hosted inference API or incur per-request API costs."
   },
   {
-    "total": 62,
-    "level": "CAUTION",
-    "label": "🔶 仅限受控环境测试",
+    "total": 65,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
     "breakdown": {
       "safety": {
         "score": 30,
@@ -6564,20 +6532,19 @@
         "weight": "30%"
       },
       "reputation": {
-        "score": 85,
+        "score": 100,
         "weight": "20%"
       }
     },
     "flags": [
-      "检测到 79 处危险系统调用（exec/subprocess等）",
-      "检测到 44 处网络外发调用且 README 无说明",
-      "检测到 263 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 1 次安全相关负面词汇"
+      "检测到 80 处危险系统调用（exec/subprocess等）",
+      "检测到 46 处网络外发调用且 README 无说明",
+      "检测到 266 处环境变量/文件/剪贴板访问"
     ],
     "owner": "Scottcjn",
     "repo": "bottube",
     "repo_url": "https://github.com/Scottcjn/bottube",
-    "stars": 150,
+    "stars": 152,
     "description": "AI video platform where 63+ agents create, upload, and interact with video content. 447+ videos. Python SDK (pip install bottube). REST API. Solana tipping. Discord: https://discord.gg/cafc4nDV"
   },
   {
@@ -6590,7 +6557,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 100,
+        "score": 99,
         "weight": "30%"
       },
       "reputation": {
@@ -6719,7 +6686,7 @@
       "检测到 21 处网络外发调用且 README 无说明",
       "检测到 50 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录",
-      "Issue 中出现 11 次安全相关负面词汇"
+      "Issue 中出现 14 次安全相关负面词汇"
     ],
     "owner": "MCERQUA",
     "repo": "OpenVoiceUI",
@@ -7012,7 +6979,7 @@
     "flags": [
       "检测到 10 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
-      "发布者账号较新（39 天）",
+      "发布者账号较新（40 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "kingcharleslzy-ai",
@@ -7222,7 +7189,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 14 天（疑似一次性账号）"
+      "发布者账号创建仅 15 天（疑似一次性账号）"
     ],
     "owner": "winston-s-team",
     "repo": "clawschool",
@@ -7231,12 +7198,12 @@
     "description": "🦞 ClawSchool - 让你的 OpenClaw Agent 去上学！"
   },
   {
-    "total": 64,
-    "level": "CAUTION",
-    "label": "🔶 仅限受控环境测试",
+    "total": 68,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
     "breakdown": {
       "safety": {
-        "score": 60,
+        "score": 70,
         "weight": "50%"
       },
       "maintenance": {
@@ -7249,8 +7216,8 @@
       }
     },
     "flags": [
-      "检测到 3 处危险系统调用（exec/subprocess等）",
-      "检测到 23 处环境变量/文件/剪贴板访问",
+      "检测到 2 处危险系统调用（exec/subprocess等）",
+      "检测到 33 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -7292,7 +7259,7 @@
     "description": "花花日记的配套 MCP 技能 - 查询基金净值/收益/持仓，管理买卖记录"
   },
   {
-    "total": 33,
+    "total": 34,
     "level": "DANGER",
     "label": "❌ 禁止在生产环境使用",
     "breakdown": {
@@ -7301,7 +7268,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -7311,9 +7278,9 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "检测到 295 处危险系统调用（exec/subprocess等）",
+      "检测到 293 处危险系统调用（exec/subprocess等）",
       "检测到 42 处网络外发调用且 README 无说明",
-      "检测到 786 处环境变量/文件/剪贴板访问",
+      "检测到 792 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -7385,7 +7352,7 @@
     "description": null
   },
   {
-    "total": 52,
+    "total": 51,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -7394,7 +7361,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -7407,7 +7374,7 @@
       "检测到 5 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 5 天（疑似一次性账号）",
+      "发布者账号创建仅 6 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "onepersonlab",
@@ -7579,13 +7546,13 @@
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
       "检测到 11 处环境变量/文件/剪贴板访问",
-      "发布者账号创建仅 24 天（疑似一次性账号）",
+      "发布者账号创建仅 25 天（疑似一次性账号）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "ClawDeckX",
     "repo": "ClawDeckX",
     "repo_url": "https://github.com/ClawDeckX/ClawDeckX",
-    "stars": 378,
+    "stars": 386,
     "description": "Complexity within, simplicity without. 繁于内，简于形。"
   },
   {
@@ -7641,7 +7608,7 @@
       "检测到 8 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（42 天）"
+      "发布者账号较新（43 天）"
     ],
     "owner": "Cognary",
     "repo": "clawbot-aionis-adapter",
@@ -7701,7 +7668,7 @@
       "检测到 4 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（31 天）"
+      "发布者账号较新（32 天）"
     ],
     "owner": "jrgrafton-openclaw",
     "repo": "openclaw-skills",
@@ -7731,7 +7698,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（67 天）"
+      "发布者账号较新（68 天）"
     ],
     "owner": "landozhao",
     "repo": "openclaw-subagent-skill-playbook",
@@ -7758,8 +7725,8 @@
       }
     },
     "flags": [
-      "检测到 11 处网络外发调用且 README 无说明",
-      "检测到 12 处环境变量/文件/剪贴板访问",
+      "检测到 8 处网络外发调用且 README 无说明",
+      "检测到 7 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "AIsa-team",
@@ -7792,7 +7759,7 @@
       "检测到 38 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（35 天）",
+      "发布者账号较新（36 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "openclaw-spirallex",
@@ -7852,7 +7819,7 @@
       "检测到 4 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（51 天）",
+      "发布者账号较新（52 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "kyriswu-2",
@@ -7971,9 +7938,9 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "检测到 104 处危险系统调用（exec/subprocess等）",
-      "检测到 16 处网络外发调用且 README 无说明",
-      "检测到 105 处环境变量/文件/剪贴板访问",
+      "检测到 119 处危险系统调用（exec/subprocess等）",
+      "检测到 24 处网络外发调用且 README 无说明",
+      "检测到 115 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "zhaog100",
@@ -8003,7 +7970,7 @@
     "flags": [
       "README 未声明所需权限",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（39 天）",
+      "发布者账号较新（40 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "moltenbot000",
@@ -8034,7 +8001,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 7 天（疑似一次性账号）",
+      "发布者账号创建仅 8 天（疑似一次性账号）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "Sparkle-Kin",
@@ -8120,9 +8087,9 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "检测到 9 处危险系统调用（exec/subprocess等）",
-      "检测到 76 处网络外发调用且 README 无说明",
-      "检测到 170 处环境变量/文件/剪贴板访问",
+      "检测到 10 处危险系统调用（exec/subprocess等）",
+      "检测到 90 处网络外发调用且 README 无说明",
+      "检测到 203 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8359,15 +8326,15 @@
       }
     },
     "flags": [
-      "检测到 429 处危险系统调用（exec/subprocess等）",
-      "检测到 66 处网络外发调用且 README 无说明",
-      "检测到 650 处环境变量/文件/剪贴板访问",
+      "检测到 219 处危险系统调用（exec/subprocess等）",
+      "检测到 63 处网络外发调用且 README 无说明",
+      "检测到 563 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "Gen-Verse",
     "repo": "OpenClaw-RL",
     "repo_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-    "stars": 3852,
+    "stars": 3929,
     "description": "OpenClaw-RL: Train any agent simply by talking"
   },
   {
@@ -8419,7 +8386,7 @@
     },
     "flags": [
       "检测到 8 处危险系统调用（exec/subprocess等）",
-      "检测到 28 处环境变量/文件/剪贴板访问",
+      "检测到 35 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 5 次安全相关负面词汇"
     ],
@@ -8498,7 +8465,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 70,
+        "score": 69,
         "weight": "30%"
       },
       "reputation": {
@@ -8538,7 +8505,7 @@
     "flags": [
       "检测到 9 处危险系统调用（exec/subprocess等）",
       "检测到 33 处网络外发调用且 README 无说明",
-      "检测到 120 处环境变量/文件/剪贴板访问",
+      "检测到 121 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8598,7 +8565,7 @@
     "flags": [
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 22 天（疑似一次性账号）"
+      "发布者账号创建仅 23 天（疑似一次性账号）"
     ],
     "owner": "jamebobob",
     "repo": "openclaw-agent-privacy",
@@ -8628,7 +8595,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 5 天（疑似一次性账号）",
+      "发布者账号创建仅 6 天（疑似一次性账号）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "tgdestiny31",
@@ -8777,7 +8744,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 17 天（疑似一次性账号）",
+      "发布者账号创建仅 18 天（疑似一次性账号）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "ClawGame-Club",
@@ -8807,7 +8774,7 @@
     "flags": [
       "检测到 1 处环境变量/文件/剪贴板访问",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 8 天（疑似一次性账号）",
+      "发布者账号创建仅 9 天（疑似一次性账号）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "clawpage",
@@ -8867,7 +8834,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（49 天）"
+      "发布者账号较新（51 天）"
     ],
     "owner": "271953796-star",
     "repo": "My_Claw_Skills",
@@ -8896,7 +8863,7 @@
     "flags": [
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 17 天（疑似一次性账号）"
+      "发布者账号创建仅 18 天（疑似一次性账号）"
     ],
     "owner": "claw-works",
     "repo": "skill-pincer",
@@ -8928,7 +8895,7 @@
       "检测到 3 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号创建仅 15 天（疑似一次性账号）"
+      "发布者账号创建仅 16 天（疑似一次性账号）"
     ],
     "owner": "code-firefly",
     "repo": "my-claw-skills",
@@ -9276,7 +9243,7 @@
       "README 未声明所需权限",
       "检测到 6 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
-      "发布者账号较新（48 天）"
+      "发布者账号较新（49 天）"
     ],
     "owner": "clawcolab",
     "repo": "clawcolab-skill",
