@@ -27,7 +27,7 @@
 **直接查看报告**
 👉 [jackart001.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
 
-报告每日自动更新，无需安装任何东西。
+报告每日自动更新，无需安装任何东西。（需要外网环境访问）
 
 **自己部署（Fork 教程）**
 🔲 完整 Fork 教程撰写中，敬请期待。
