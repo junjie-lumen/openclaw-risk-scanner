@@ -2,7 +2,7 @@
 
 > **自动化评估 OpenClaw 生态技能包的安全风险，帮助企业 IT 决策者规避 AI Agent 供应链威胁。**
 
-🔗 **Live Demo** → [junjie-lumen.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
+🔗 **Live Demo** → [junjie-lumen.github.io/openclaw-risk-scanner](https://junjie-lumen.github.io/openclaw-risk-scanner)
 （大陆用户需要外网环境才能打开网页）
 
 ![自动更新](https://img.shields.io/badge/更新频率-每日-38bdf8)
@@ -26,7 +26,7 @@
 ## 使用说明
 
 **直接查看报告**
-👉 [junjie-lumen.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
+👉 [junjie-lumen.github.io/openclaw-risk-scanner](https://junjie-lumen.github.io/openclaw-risk-scanner)
 
 报告每日自动更新，无需安装任何东西。（需要外网环境访问）
 
