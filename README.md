@@ -26,7 +26,7 @@
 ## 使用说明
 
 **直接查看报告**
-👉 [junjie-lumen.github.io/openclaw-risk-scanner](https://jackart001.github.io/openclaw-risk-scanner)
+👉 [junjie-lumen.github.io/openclaw-risk-scanner](https://junjie-lumen.github.io/openclaw-risk-scanner)
 
 报告每日自动更新，无需安装任何东西。（需要外网环境访问）
 
