@@ -18,7 +18,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "al1enjesus",
@@ -46,7 +46,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 195 天，维护活跃度低",
+      "最近一次提交距今 196 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -82,7 +82,7 @@
     "owner": "YouMind-OpenLab",
     "repo": "nano-banana-pro-prompts-recommend-skill",
     "repo_url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-    "stars": 1872,
+    "stars": 1873,
     "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images."
   },
   {
@@ -134,7 +134,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 208 天，维护活跃度低",
+      "最近一次提交距今 209 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -328,7 +328,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 70,
+        "score": 69,
         "weight": "30%"
       },
       "reputation": {
@@ -397,16 +397,16 @@
     "flags": [
       "检测到 10 处危险系统调用（exec/subprocess等）",
       "检测到 15 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 306 次安全相关负面词汇"
+      "Issue 中出现 303 次安全相关负面词汇"
     ],
     "owner": "prompt-security",
     "repo": "clawsec",
     "repo_url": "https://github.com/prompt-security/clawsec",
-    "stars": 1118,
+    "stars": 1120,
     "description": "A complete security skill suite for OpenClaw, Hermes, PicoClaw and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
   },
   {
-    "total": 90,
+    "total": 89,
     "level": "SAFE",
     "label": "✅ 推荐使用",
     "breakdown": {
@@ -415,7 +415,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 65,
+        "score": 64,
         "weight": "30%"
       },
       "reputation": {
@@ -424,7 +424,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 182 天，维护活跃度低",
+      "最近一次提交距今 183 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "clawtrustmolts",
@@ -453,7 +453,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "openstockdata",
@@ -512,7 +512,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -542,7 +542,7 @@
     },
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 202 天，维护活跃度低",
+      "最近一次提交距今 203 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -579,7 +579,7 @@
     "owner": "dataelement",
     "repo": "Clawith",
     "repo_url": "https://github.com/dataelement/Clawith",
-    "stars": 4164,
+    "stars": 4161,
     "description": "Your First AI Agents Company"
   },
   {
@@ -700,7 +700,7 @@
     "owner": "openguardrails",
     "repo": "openguardrails",
     "repo_url": "https://github.com/openguardrails/openguardrails",
-    "stars": 54,
+    "stars": 55,
     "description": "The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks the vendors."
   },
   {
@@ -818,7 +818,7 @@
     "repo": "fount",
     "repo_url": "https://github.com/steve02081504/fount",
     "stars": 692,
-    "description": "🧩 One runtime. Infinite selves. 🎭"
+    "description": "⚙️ Runtime for artificial selves. 🎭"
   },
   {
     "total": 71,
@@ -871,7 +871,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 5 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 212 天，维护活跃度低",
+      "最近一次提交距今 213 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -933,7 +933,7 @@
     "flags": [
       "检测到 48 处危险系统调用（exec/subprocess等）",
       "检测到 5 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 201 天，维护活跃度低",
+      "最近一次提交距今 202 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "DEEP-IOS",
@@ -1029,7 +1029,7 @@
     "owner": "aAAaqwq",
     "repo": "AGI-Super-Team",
     "repo_url": "https://github.com/aAAaqwq/AGI-Super-Team",
-    "stars": 106,
+    "stars": 107,
     "description": "An installable, cross-framework AI organization: C-suite agents, expert subagents, curated skills, independent review, and one-command setup across 18 AI client/runtime adapters."
   },
   {
@@ -1079,7 +1079,7 @@
     },
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "lijiejoy",
@@ -1109,7 +1109,7 @@
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1138,7 +1138,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 201 天，维护活跃度低",
+      "最近一次提交距今 202 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1196,7 +1196,7 @@
     },
     "flags": [
       "检测到 7 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 199 天，维护活跃度低",
+      "最近一次提交距今 200 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "rodrigouroz",
@@ -1261,7 +1261,7 @@
     "owner": "alirezarezvani",
     "repo": "claude-skills",
     "repo_url": "https://github.com/alirezarezvani/claude-skills",
-    "stars": 28086,
+    "stars": 28142,
     "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills."
   },
   {
@@ -1285,7 +1285,7 @@
     "flags": [
       "检测到 1528 处危险系统调用（exec/subprocess等）",
       "检测到 570 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 196 天，维护活跃度低",
+      "最近一次提交距今 197 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 1 次安全相关负面词汇"
     ],
@@ -1343,14 +1343,14 @@
       }
     },
     "flags": [
-      "最近一次提交距今 193 天，维护活跃度低",
+      "最近一次提交距今 194 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "win4r",
     "repo": "OpenClaw-Skill",
     "repo_url": "https://github.com/win4r/OpenClaw-Skill",
-    "stars": 314,
+    "stars": 313,
     "description": null
   },
   {
@@ -1376,7 +1376,7 @@
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
       "检测到 8 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1406,7 +1406,7 @@
     },
     "flags": [
       "检测到 8 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 204 天，维护活跃度低",
+      "最近一次提交距今 205 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1449,7 +1449,7 @@
     "description": "skills for deep search — multi-source search, content extraction, and structured research reports."
   },
   {
-    "total": 56,
+    "total": 55,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -1458,7 +1458,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -1531,7 +1531,7 @@
       "README 未声明所需权限",
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1654,7 +1654,7 @@
     "flags": [
       "检测到 8 处危险系统调用（exec/subprocess等）",
       "检测到 3 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1683,7 +1683,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 208 天，维护活跃度低",
+      "最近一次提交距今 209 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1712,7 +1712,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 208 天，维护活跃度低",
+      "最近一次提交距今 209 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1741,7 +1741,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 208 天，维护活跃度低",
+      "最近一次提交距今 209 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1770,7 +1770,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 203 天，维护活跃度低",
+      "最近一次提交距今 204 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "youzaiAGI",
@@ -1800,7 +1800,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 5 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 215 天，维护活跃度低",
+      "最近一次提交距今 216 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
@@ -1861,7 +1861,7 @@
     },
     "flags": [
       "检测到 34 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1891,7 +1891,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1921,7 +1921,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1950,7 +1950,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -1981,7 +1981,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2012,7 +2012,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 32 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2042,7 +2042,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2073,7 +2073,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2104,7 +2104,7 @@
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 2 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2134,7 +2134,7 @@
     },
     "flags": [
       "检测到 4 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2165,7 +2165,7 @@
     "flags": [
       "检测到 266 处危险系统调用（exec/subprocess等）",
       "检测到 14 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2197,7 +2197,7 @@
       "README 未声明所需权限",
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2229,7 +2229,7 @@
       "README 未声明所需权限",
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 3 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
@@ -2262,7 +2262,7 @@
       "检测到 62 处危险系统调用（exec/subprocess等）",
       "检测到 14 处网络外发调用且 README 无说明",
       "检测到 84 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2294,7 +2294,7 @@
       "检测到 465 处危险系统调用（exec/subprocess等）",
       "检测到 14 处网络外发调用且 README 无说明",
       "检测到 113 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2325,7 +2325,7 @@
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 3 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2355,7 +2355,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2385,7 +2385,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2415,7 +2415,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2445,7 +2445,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2475,7 +2475,7 @@
     },
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2505,7 +2505,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2535,7 +2535,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2566,7 +2566,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2598,7 +2598,7 @@
       "README 未声明所需权限",
       "检测到 43 处危险系统调用（exec/subprocess等）",
       "检测到 8 处网络外发调用且 README 无说明",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2629,7 +2629,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 6 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2659,7 +2659,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2690,7 +2690,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 2 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2727,7 +2727,7 @@
     "owner": "alibaba",
     "repo": "hiclaw",
     "repo_url": "https://github.com/alibaba/hiclaw",
-    "stars": 5737,
+    "stars": 5744,
     "description": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms."
   },
   {
@@ -2760,7 +2760,7 @@
     "description": "The filesystem for AI agents"
   },
   {
-    "total": 55,
+    "total": 54,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -2769,7 +2769,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 99,
+        "score": 98,
         "weight": "30%"
       },
       "reputation": {
@@ -2814,7 +2814,7 @@
     "owner": "JIGGAI",
     "repo": "ClawKitchen",
     "repo_url": "https://github.com/JIGGAI/ClawKitchen",
-    "stars": 20,
+    "stars": 19,
     "description": "OpenClaw control center add-on for ClawRecipes — manage agents, multi-agent teams, agile tasks, goal tracking & cron admin from a single dashboard."
   },
   {
@@ -2838,13 +2838,13 @@
     "flags": [
       "检测到 230 处危险系统调用（exec/subprocess等）",
       "检测到 5 处网络外发调用且 README 无说明",
-      "检测到 835 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 4 次安全相关负面词汇"
+      "检测到 842 处环境变量/文件/剪贴板访问",
+      "Issue 中出现 6 次安全相关负面词汇"
     ],
     "owner": "CherryHQ",
     "repo": "cherry-studio",
     "repo_url": "https://github.com/CherryHQ/cherry-studio",
-    "stars": 52584,
+    "stars": 52602,
     "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs"
   },
   {
@@ -2866,7 +2866,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -2926,7 +2926,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 205 天，维护活跃度低",
+      "最近一次提交距今 206 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3073,7 +3073,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 7 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3190,7 +3190,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 198 天，维护活跃度低",
+      "最近一次提交距今 199 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3221,7 +3221,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 5 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 197 天，维护活跃度低",
+      "最近一次提交距今 198 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3252,7 +3252,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3285,7 +3285,7 @@
       "检测到 3 处危险系统调用（exec/subprocess等）",
       "检测到 3 处网络外发调用且 README 无说明",
       "检测到 6 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 214 天，维护活跃度低",
+      "最近一次提交距今 215 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3318,7 +3318,7 @@
       "检测到 20 处危险系统调用（exec/subprocess等）",
       "检测到 7 处网络外发调用且 README 无说明",
       "检测到 59 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3377,7 +3377,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 215 天，维护活跃度低",
+      "最近一次提交距今 216 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3407,7 +3407,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3468,7 +3468,7 @@
     },
     "flags": [
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低"
+      "最近一次提交距今 218 天，维护活跃度低"
     ],
     "owner": "adshrc",
     "repo": "openclaw-devboxes-skill",
@@ -3496,7 +3496,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -3527,7 +3527,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3559,7 +3559,7 @@
       "检测到 5 处危险系统调用（exec/subprocess等）",
       "检测到 7 处网络外发调用且 README 无说明",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 207 天，维护活跃度低",
+      "最近一次提交距今 208 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "sbrin",
@@ -3587,7 +3587,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 214 天，维护活跃度低",
+      "最近一次提交距今 215 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3620,7 +3620,7 @@
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 14 处网络外发调用且 README 无说明",
       "检测到 12 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3649,7 +3649,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "Bahtya",
@@ -3678,7 +3678,7 @@
     },
     "flags": [
       "检测到 1 处网络外发调用且 README 无说明",
-      "最近一次提交距今 208 天，维护活跃度低",
+      "最近一次提交距今 209 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -3709,7 +3709,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3739,7 +3739,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3772,7 +3772,7 @@
       "检测到 220 处危险系统调用（exec/subprocess等）",
       "检测到 14 处网络外发调用且 README 无说明",
       "检测到 13 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3803,7 +3803,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 13 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3835,7 +3835,7 @@
       "README 未声明所需权限",
       "检测到 6 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3866,7 +3866,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3896,7 +3896,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -3955,12 +3955,12 @@
     "flags": [
       "检测到 83 处危险系统调用（exec/subprocess等）",
       "检测到 15 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 32 次安全相关负面词汇"
+      "Issue 中出现 25 次安全相关负面词汇"
     ],
     "owner": "AlexsJones",
     "repo": "sympozium",
     "repo_url": "https://github.com/AlexsJones/sympozium",
-    "stars": 660,
+    "stars": 661,
     "description": " The Coordination Layer for Multi-Agent AI"
   },
   {
@@ -4042,15 +4042,15 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "检测到 582 处危险系统调用（exec/subprocess等）",
+      "检测到 583 处危险系统调用（exec/subprocess等）",
       "检测到 186 处网络外发调用且 README 无说明",
-      "检测到 675 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 13 次安全相关负面词汇"
+      "检测到 677 处环境变量/文件/剪贴板访问",
+      "Issue 中出现 5 次安全相关负面词汇"
     ],
     "owner": "vllm-project",
     "repo": "semantic-router",
     "repo_url": "https://github.com/vllm-project/semantic-router",
-    "stars": 6122,
+    "stars": 6144,
     "description": "An open, programmable decision layer for models and compute."
   },
   {
@@ -4072,7 +4072,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 203 天，维护活跃度低",
+      "最近一次提交距今 204 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "Martinqi826",
@@ -4103,12 +4103,12 @@
       "检测到 106 处危险系统调用（exec/subprocess等）",
       "检测到 19 处网络外发调用且 README 无说明",
       "检测到 19 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 33 次安全相关负面词汇"
+      "Issue 中出现 30 次安全相关负面词汇"
     ],
     "owner": "BlockRunAI",
     "repo": "ClawRouter",
     "repo_url": "https://github.com/BlockRunAI/ClawRouter",
-    "stars": 6623,
+    "stars": 6627,
     "description": "The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402."
   },
   {
@@ -4173,7 +4173,7 @@
     "description": null
   },
   {
-    "total": 41,
+    "total": 40,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -4182,7 +4182,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 52,
+        "score": 51,
         "weight": "30%"
       },
       "reputation": {
@@ -4222,7 +4222,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 215 天，维护活跃度低",
+      "最近一次提交距今 216 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4251,7 +4251,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 214 天，维护活跃度低",
+      "最近一次提交距今 215 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "arcqdev",
@@ -4282,7 +4282,7 @@
       "README 未声明所需权限",
       "检测到 6 处网络外发调用且 README 无说明",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4311,7 +4311,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 212 天，维护活跃度低",
+      "最近一次提交距今 213 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4368,7 +4368,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4398,7 +4398,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 206 天，维护活跃度低",
+      "最近一次提交距今 207 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4430,7 +4430,7 @@
       "检测到 32 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
       "检测到 10 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 101 次安全相关负面词汇"
+      "Issue 中出现 80 次安全相关负面词汇"
     ],
     "owner": "goldmar",
     "repo": "openclaw-code-agent",
@@ -4486,7 +4486,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 215 天，维护活跃度低",
+      "最近一次提交距今 216 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4549,7 +4549,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 202 天，维护活跃度低",
+      "最近一次提交距今 203 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4580,7 +4580,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处网络外发调用且 README 无说明",
-      "最近一次提交距今 201 天，维护活跃度低",
+      "最近一次提交距今 202 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4610,7 +4610,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 214 天，维护活跃度低",
+      "最近一次提交距今 215 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4639,7 +4639,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4702,7 +4702,7 @@
       "检测到 6 处危险系统调用（exec/subprocess等）",
       "检测到 4 处网络外发调用且 README 无说明",
       "检测到 16 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 181 天，维护活跃度低",
+      "最近一次提交距今 182 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4790,7 +4790,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 208 天，维护活跃度低",
+      "最近一次提交距今 209 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -4849,7 +4849,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -4880,7 +4880,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 194 天，维护活跃度低",
+      "最近一次提交距今 195 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -4892,7 +4892,7 @@
     "description": "Free OpenClaw marketing skills for copywriting, ads, email, and growth. Built on proven frameworks from Hormozi, Caples, Brunson, and more."
   },
   {
-    "total": 42,
+    "total": 41,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -4901,7 +4901,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 32,
+        "score": 31,
         "weight": "30%"
       },
       "reputation": {
@@ -4914,7 +4914,7 @@
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 8 处网络外发调用且 README 无说明",
       "检测到 12 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 209 天，维护活跃度低",
+      "最近一次提交距今 210 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -5003,7 +5003,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "rogerwu188",
@@ -5032,7 +5032,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -5063,7 +5063,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 193 天，维护活跃度低",
+      "最近一次提交距今 194 天，维护活跃度低",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "docuspeed",
@@ -5092,7 +5092,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "vince-winkintel",
@@ -5121,7 +5121,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5152,7 +5152,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 2 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 208 天，维护活跃度低",
+      "最近一次提交距今 209 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5182,7 +5182,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5219,7 +5219,7 @@
     "owner": "FreedomIntelligence",
     "repo": "OpenClaw-Medical-Skills",
     "repo_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-    "stars": 3061,
+    "stars": 3064,
     "description": "The largest open-source medical AI skills library for OpenClaw🦞."
   },
   {
@@ -5244,7 +5244,7 @@
       "README 未声明所需权限",
       "检测到 2 处网络外发调用且 README 无说明",
       "检测到 8 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 216 天，维护活跃度低",
+      "最近一次提交距今 217 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5274,7 +5274,7 @@
     },
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -5305,7 +5305,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5335,7 +5335,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5366,7 +5366,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 217 天，维护活跃度低",
+      "最近一次提交距今 218 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5484,7 +5484,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5522,7 +5522,7 @@
     "description": "OpenClaw CloudPhone is a plugin that gives AI agents device management and UI automation capabilities for cloud phones.  With natural language instructions, an agent can list devices, power them on or off, capture screenshots, tap, swipe, type text, and perform other UI actions without writing manual scripts."
   },
   {
-    "total": 80,
+    "total": 79,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -5531,7 +5531,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 32,
+        "score": 31,
         "weight": "30%"
       },
       "reputation": {
@@ -5540,7 +5540,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 209 天，维护活跃度低",
+      "最近一次提交距今 210 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5560,7 +5560,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 96,
+        "score": 97,
         "weight": "30%"
       },
       "reputation": {
@@ -5599,7 +5599,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -5686,7 +5686,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "arrase",
@@ -5721,7 +5721,7 @@
     "owner": "SapienXai",
     "repo": "AgentOS",
     "repo_url": "https://github.com/SapienXai/AgentOS",
-    "stars": 118,
+    "stars": 119,
     "description": "Run agents like a company. AgentOS is the native control plane for OpenClaw — manage agents, tasks, models, context, approvals, and runtime visibility from one place."
   },
   {
@@ -5751,11 +5751,11 @@
     "owner": "JacobJandon",
     "repo": "OnionClaw",
     "repo_url": "https://github.com/JacobJandon/OnionClaw",
-    "stars": 71,
+    "stars": 72,
     "description": "OnionClaw™ — OpenClaw skill for full Tor dark web access: search .onion sites, fetch hidden services, rotate identity, run OSINT pipeline, craw."
   },
   {
-    "total": 62,
+    "total": 61,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -5764,7 +5764,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 32,
+        "score": 31,
         "weight": "30%"
       },
       "reputation": {
@@ -5774,7 +5774,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 209 天，维护活跃度低",
+      "最近一次提交距今 210 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -5906,7 +5906,7 @@
     "description": "Stop runaway costs and manage multi-agent AI workflows with a Rust proxy that controls loops, priorities, and system spamming efficiently."
   },
   {
-    "total": 61,
+    "total": 62,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -5915,7 +5915,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -5955,7 +5955,7 @@
     },
     "flags": [
       "检测到 10 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "kingcharleslzy-ai",
@@ -6093,7 +6093,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -6134,7 +6134,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6165,7 +6165,7 @@
     "flags": [
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "检测到 40 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 194 天，维护活跃度低",
+      "最近一次提交距今 195 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6255,7 +6255,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "tiandiyiqi",
@@ -6285,7 +6285,7 @@
     "flags": [
       "检测到 8 处危险系统调用（exec/subprocess等）",
       "检测到 5 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 206 天，维护活跃度低",
+      "最近一次提交距今 207 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6314,7 +6314,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 207 天，维护活跃度低",
+      "最近一次提交距今 208 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "Karovia",
@@ -6343,7 +6343,7 @@
     },
     "flags": [
       "检测到 2 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6451,7 +6451,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -6472,7 +6472,7 @@
     "description": "Build and update dashboards automatically using AI agents on the Vel framework, enabling dynamic and self-maintaining data views."
   },
   {
-    "total": 55,
+    "total": 54,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -6481,7 +6481,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 32,
+        "score": 31,
         "weight": "30%"
       },
       "reputation": {
@@ -6492,7 +6492,7 @@
     "flags": [
       "检测到 7 处危险系统调用（exec/subprocess等）",
       "检测到 8 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 209 天，维护活跃度低",
+      "最近一次提交距今 210 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6521,7 +6521,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6553,7 +6553,7 @@
       "README 未声明所需权限",
       "检测到 6 处网络外发调用且 README 无说明",
       "检测到 4 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 195 天，维护活跃度低",
+      "最近一次提交距今 196 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 2 次安全相关负面词汇"
     ],
@@ -6643,7 +6643,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6674,7 +6674,7 @@
     "flags": [
       "检测到 4 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
@@ -6707,7 +6707,7 @@
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 5 处网络外发调用且 README 无说明",
       "检测到 8 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 202 天，维护活跃度低",
+      "最近一次提交距今 203 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6766,7 +6766,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6816,7 +6816,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 47,
+        "score": 46,
         "weight": "30%"
       },
       "reputation": {
@@ -6826,7 +6826,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 209 天，维护活跃度低",
+      "最近一次提交距今 210 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "moltenbot000",
@@ -6855,7 +6855,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -6886,7 +6886,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6915,7 +6915,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6978,7 +6978,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 7 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -6998,7 +6998,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -7105,7 +7105,7 @@
     "owner": "Gen-Verse",
     "repo": "OpenClaw-RL",
     "repo_url": "https://github.com/Gen-Verse/OpenClaw-RL",
-    "stars": 5719,
+    "stars": 5722,
     "description": "OpenClaw-RL: Train any agent simply by talking"
   },
   {
@@ -7187,7 +7187,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 5 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 201 天，维护活跃度低",
+      "最近一次提交距今 202 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -7216,7 +7216,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -7237,7 +7237,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 48,
+        "score": 47,
         "weight": "30%"
       },
       "reputation": {
@@ -7277,7 +7277,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 4 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "mbdtf202-cyber",
@@ -7334,7 +7334,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -7367,7 +7367,7 @@
       "检测到 3 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
       "检测到 6 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 11 次安全相关负面词汇"
     ],
@@ -7396,7 +7396,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -7515,7 +7515,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -7546,7 +7546,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 210 天，维护活跃度低",
+      "最近一次提交距今 211 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -7607,7 +7607,7 @@
       "README 未声明所需权限",
       "检测到 3 处危险系统调用（exec/subprocess等）",
       "检测到 3 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -7638,7 +7638,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 4 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 204 天，维护活跃度低",
+      "最近一次提交距今 205 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -7905,7 +7905,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 211 天，维护活跃度低",
+      "最近一次提交距今 212 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -7936,7 +7936,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 6 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 196 天，维护活跃度低",
+      "最近一次提交距今 197 天，维护活跃度低",
       "Issue 中出现 2 次安全相关负面词汇"
     ],
     "owner": "clawcolab",
@@ -8024,7 +8024,7 @@
     "flags": [
       "检测到 4 处网络外发调用且 README 无说明",
       "检测到 2 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 181 天，维护活跃度低",
+      "最近一次提交距今 182 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8072,7 +8072,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 33,
+        "score": 32,
         "weight": "30%"
       },
       "reputation": {
@@ -8083,7 +8083,7 @@
     "flags": [
       "检测到 1 处危险系统调用（exec/subprocess等）",
       "检测到 7 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 200 天，维护活跃度低",
+      "最近一次提交距今 201 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8113,7 +8113,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 187 天，维护活跃度低",
+      "最近一次提交距今 188 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8173,7 +8173,7 @@
     },
     "flags": [
       "检测到 3 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 197 天，维护活跃度低",
+      "最近一次提交距今 198 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8203,7 +8203,7 @@
     },
     "flags": [
       "检测到 2 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 202 天，维护活跃度低",
+      "最近一次提交距今 203 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8232,7 +8232,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 203 天，维护活跃度低",
+      "最近一次提交距今 204 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8367,7 +8367,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -8409,7 +8409,7 @@
       "README 未声明所需权限",
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "检测到 24 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 195 天，维护活跃度低",
+      "最近一次提交距今 196 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "11-miracle",
@@ -8437,7 +8437,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 199 天，维护活跃度低",
+      "最近一次提交距今 200 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 1 次安全相关负面词汇"
     ],
@@ -8467,7 +8467,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 204 天，维护活跃度低",
+      "最近一次提交距今 205 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8615,7 +8615,7 @@
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "检测到 2 处网络外发调用且 README 无说明",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 202 天，维护活跃度低",
+      "最近一次提交距今 203 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8665,7 +8665,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -8706,7 +8706,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 2 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 194 天，维护活跃度低",
+      "最近一次提交距今 195 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8726,7 +8726,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 33,
+        "score": 32,
         "weight": "30%"
       },
       "reputation": {
@@ -8736,7 +8736,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 200 天，维护活跃度低",
+      "最近一次提交距今 201 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8766,7 +8766,7 @@
     },
     "flags": [
       "检测到 4 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 204 天，维护活跃度低",
+      "最近一次提交距今 205 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8795,7 +8795,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 199 天，维护活跃度低",
+      "最近一次提交距今 200 天，维护活跃度低",
       "Issue 中出现 4 次安全相关负面词汇"
     ],
     "owner": "pretyflaco",
@@ -8886,7 +8886,7 @@
     "flags": [
       "检测到 5 处危险系统调用（exec/subprocess等）",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 183 天，维护活跃度低",
+      "最近一次提交距今 184 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -8948,7 +8948,7 @@
       "检测到 41 处危险系统调用（exec/subprocess等）",
       "检测到 14 处网络外发调用且 README 无说明",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 194 天，维护活跃度低",
+      "最近一次提交距今 195 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知"
     ],
     "owner": "chouraycn",
@@ -9169,7 +9169,7 @@
     "description": "Enable AI agents to autonomously create, evaluate, and evolve skills across any marketplace without user intervention."
   },
   {
-    "total": 53,
+    "total": 54,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -9178,7 +9178,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -9249,7 +9249,7 @@
     },
     "flags": [
       "检测到 5 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 188 天，维护活跃度低",
+      "最近一次提交距今 189 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 1 个公开仓库，背景单薄"
@@ -9385,7 +9385,7 @@
     "description": null
   },
   {
-    "total": 43,
+    "total": 44,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -9394,7 +9394,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -9468,7 +9468,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 197 天，维护活跃度低",
+      "最近一次提交距今 198 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -9497,7 +9497,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 196 天，维护活跃度低",
+      "最近一次提交距今 197 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -9529,7 +9529,7 @@
       "README 未声明所需权限",
       "检测到 4 处网络外发调用且 README 无说明",
       "检测到 4 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 197 天，维护活跃度低",
+      "最近一次提交距今 198 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -9610,7 +9610,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 53,
+        "score": 52,
         "weight": "30%"
       },
       "reputation": {
@@ -9649,7 +9649,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 187 天，维护活跃度低",
+      "最近一次提交距今 188 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
@@ -9681,7 +9681,7 @@
       "检测到 9 处危险系统调用（exec/subprocess等）",
       "检测到 5 处网络外发调用且 README 无说明",
       "检测到 5 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 197 天，维护活跃度低",
+      "最近一次提交距今 198 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -9730,7 +9730,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -9769,7 +9769,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 187 天，维护活跃度低",
+      "最近一次提交距今 188 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录"
     ],
     "owner": "fa762",
@@ -9797,7 +9797,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 196 天，维护活跃度低",
+      "最近一次提交距今 197 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -9856,7 +9856,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 197 天，维护活跃度低",
+      "最近一次提交距今 198 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
       "发布者仅有 2 个公开仓库，背景单薄"
@@ -9887,7 +9887,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 197 天，维护活跃度低",
+      "最近一次提交距今 198 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -9959,7 +9959,7 @@
     "description": "Track Binance prices in real time with a fast Rust sniper and monitor for precise market alerts"
   },
   {
-    "total": 83,
+    "total": 84,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -9968,7 +9968,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -10125,7 +10125,7 @@
     },
     "flags": [
       "检测到 8 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 184 天，维护活跃度低",
+      "最近一次提交距今 185 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10157,7 +10157,7 @@
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "检测到 3 处网络外发调用且 README 无说明",
       "检测到 4 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10249,7 +10249,7 @@
       "README 未声明所需权限",
       "检测到 8 处危险系统调用（exec/subprocess等）",
       "检测到 8 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10279,7 +10279,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10308,7 +10308,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10337,7 +10337,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10366,7 +10366,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10396,7 +10396,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10426,7 +10426,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10455,7 +10455,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10484,7 +10484,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10514,7 +10514,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10543,7 +10543,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10572,7 +10572,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10601,7 +10601,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10630,7 +10630,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10660,7 +10660,7 @@
     },
     "flags": [
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10689,7 +10689,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10721,7 +10721,7 @@
       "检测到 7 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
       "检测到 18 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10750,7 +10750,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10779,7 +10779,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10808,7 +10808,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10837,7 +10837,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10867,7 +10867,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10898,7 +10898,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 3 处网络外发调用且 README 无说明",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10928,7 +10928,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10958,7 +10958,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -10988,7 +10988,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11019,7 +11019,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11138,7 +11138,7 @@
       }
     },
     "flags": [
-      "最近一次提交距今 189 天，维护活跃度低",
+      "最近一次提交距今 190 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11169,7 +11169,7 @@
     "flags": [
       "README 未声明所需权限",
       "检测到 12 处危险系统调用（exec/subprocess等）",
-      "最近一次提交距今 188 天，维护活跃度低",
+      "最近一次提交距今 189 天，维护活跃度低",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 3 次安全相关负面词汇"
     ],
@@ -11200,7 +11200,7 @@
     "flags": [
       "检测到 6 处危险系统调用（exec/subprocess等）",
       "检测到 14 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 190 天，维护活跃度低",
+      "最近一次提交距今 191 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11220,7 +11220,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 34,
+        "score": 33,
         "weight": "30%"
       },
       "reputation": {
@@ -11230,7 +11230,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 191 天，维护活跃度低",
+      "最近一次提交距今 192 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11250,7 +11250,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 34,
+        "score": 33,
         "weight": "30%"
       },
       "reputation": {
@@ -11262,7 +11262,7 @@
       "检测到 51 处危险系统调用（exec/subprocess等）",
       "检测到 24 处网络外发调用且 README 无说明",
       "检测到 91 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 191 天，维护活跃度低",
+      "最近一次提交距今 192 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11273,7 +11273,7 @@
     "description": "Anthropic Claude Code skills converted for OpenClaw"
   },
   {
-    "total": 78,
+    "total": 77,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -11282,7 +11282,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 34,
+        "score": 33,
         "weight": "30%"
       },
       "reputation": {
@@ -11292,7 +11292,7 @@
     },
     "flags": [
       "检测到 1 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 191 天，维护活跃度低",
+      "最近一次提交距今 192 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11388,7 +11388,7 @@
     "owner": "GridLtd-ProductDev",
     "repo": "narrator-ai-cli-skill",
     "repo_url": "https://github.com/GridLtd-ProductDev/narrator-ai-cli-skill",
-    "stars": 3042,
+    "stars": 3045,
     "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用"
   },
   {
@@ -11446,7 +11446,7 @@
     "owner": "konglong87",
     "repo": "superPM",
     "repo_url": "https://github.com/konglong87/superPM",
-    "stars": 73,
+    "stars": 74,
     "description": "专为产品经理设计的 AI工具 Skills技能，一键实现全生命周期的产品管理工作流。skills frame for superPM！"
   },
   {
@@ -11532,7 +11532,7 @@
     "owner": "iPythoning",
     "repo": "b2b-sdr-agent-template",
     "repo_url": "https://github.com/iPythoning/b2b-sdr-agent-template",
-    "stars": 189,
+    "stars": 190,
     "description": "Open-source AI SDR template for B2B export. 10-stage sales pipeline, 10 cron jobs, 4-engine memory, multi-channel (WhatsApp+Telegram+Email). Built on OpenClaw."
   },
   {
@@ -11561,7 +11561,7 @@
     "owner": "activeloopai",
     "repo": "hivemind",
     "repo_url": "https://github.com/activeloopai/hivemind",
-    "stars": 1621,
+    "stars": 1624,
     "description": "Hivemind turns your traces into reusable skills across agents"
   },
   {
@@ -11587,6 +11587,7 @@
       "检测到 5 处危险系统调用（exec/subprocess等）",
       "检测到 1 处网络外发调用且 README 无说明",
       "检测到 16 处环境变量/文件/剪贴板访问",
+      "最近一次提交距今 181 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11673,6 +11674,7 @@
     },
     "flags": [
       "检测到 2 处网络外发调用且 README 无说明",
+      "最近一次提交距今 181 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
@@ -11703,7 +11705,7 @@
     "flags": [
       "检测到 426 处危险系统调用（exec/subprocess等）",
       "检测到 40 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 30 次安全相关负面词汇",
+      "Issue 中出现 31 次安全相关负面词汇",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "csuzngjh",
@@ -11774,38 +11776,6 @@
     "description": "坤坤的 OpenClaw Skills 集合"
   },
   {
-    "total": 52,
-    "level": "CAUTION",
-    "label": "🔶 仅限受控环境测试",
-    "breakdown": {
-      "safety": {
-        "score": 44,
-        "weight": "50%"
-      },
-      "maintenance": {
-        "score": 34,
-        "weight": "30%"
-      },
-      "reputation": {
-        "score": 100,
-        "weight": "20%"
-      }
-    },
-    "flags": [
-      "README 未声明所需权限",
-      "检测到 2 处网络外发调用且 README 无说明",
-      "检测到 14 处环境变量/文件/剪贴板访问",
-      "最近一次提交距今 183 天，维护活跃度低",
-      "无已关闭 Issue 记录，响应速度未知",
-      "未检测到语义化版本号或 Release 记录"
-    ],
-    "owner": "Pangolin-spg",
-    "repo": "openclaw-skill-pangolinfo",
-    "repo_url": "https://github.com/Pangolin-spg/openclaw-skill-pangolinfo",
-    "stars": 8,
-    "description": "Real-time Web Scraper Skill for OpenClaw & AI Agents. Fetch live data from Google Search, Amazon, and Walmart using Pangolinfo's AI Mode API. Returns LLM-ready JSON/Markdown."
-  },
-  {
     "total": 65,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
@@ -11825,7 +11795,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 183 天，维护活跃度低",
+      "最近一次提交距今 184 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11919,7 +11889,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 183 天，维护活跃度低",
+      "最近一次提交距今 184 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -11949,7 +11919,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 183 天，维护活跃度低",
+      "最近一次提交距今 184 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -12096,7 +12066,7 @@
     },
     "flags": [
       "README 未声明所需权限",
-      "最近一次提交距今 183 天，维护活跃度低",
+      "最近一次提交距今 184 天，维护活跃度低",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录"
     ],
@@ -12138,7 +12108,7 @@
     "description": "Turn recruiting emails into native macOS reminders with AI parsing, so you never miss an interview again"
   },
   {
-    "total": 83,
+    "total": 84,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -12147,7 +12117,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -12185,14 +12155,14 @@
       }
     },
     "flags": [
-      "检测到 341 处危险系统调用（exec/subprocess等）",
-      "检测到 246 处环境变量/文件/剪贴板访问",
-      "Issue 中出现 13 次安全相关负面词汇"
+      "检测到 343 处危险系统调用（exec/subprocess等）",
+      "检测到 247 处环境变量/文件/剪贴板访问",
+      "Issue 中出现 12 次安全相关负面词汇"
     ],
     "owner": "ClawBio",
     "repo": "ClawBio",
     "repo_url": "https://github.com/ClawBio/ClawBio",
-    "stars": 1159,
+    "stars": 1160,
     "description": "🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free."
   },
   {
@@ -12223,7 +12193,7 @@
     "owner": "Unclecheng-li",
     "repo": "VulnClaw",
     "repo_url": "https://github.com/Unclecheng-li/VulnClaw",
-    "stars": 3628,
+    "stars": 3669,
     "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。"
   },
   {
@@ -12423,7 +12393,7 @@
     "owner": "Batman0506",
     "repo": "openclaw-sec-skills",
     "repo_url": "https://github.com/Batman0506/openclaw-sec-skills",
-    "stars": 338,
+    "stars": 340,
     "description": "🛡️ 网络安全/AI Agent Skills 集合 | Cybersecurity Security Skills Collection"
   },
   {
@@ -12436,7 +12406,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 36,
+        "score": 35,
         "weight": "30%"
       },
       "reputation": {
@@ -12456,7 +12426,7 @@
     "description": null
   },
   {
-    "total": 81,
+    "total": 80,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -12465,7 +12435,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 36,
+        "score": 35,
         "weight": "30%"
       },
       "reputation": {
@@ -12633,7 +12603,7 @@
     "description": null
   },
   {
-    "total": 31,
+    "total": 30,
     "level": "DANGER",
     "label": "❌ 禁止在生产环境使用",
     "breakdown": {
@@ -12642,7 +12612,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 36,
+        "score": 35,
         "weight": "30%"
       },
       "reputation": {
@@ -12703,7 +12673,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 36,
+        "score": 35,
         "weight": "30%"
       },
       "reputation": {
@@ -12732,7 +12702,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 51,
+        "score": 50,
         "weight": "30%"
       },
       "reputation": {
@@ -12875,7 +12845,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -13141,7 +13111,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 41,
+        "score": 40,
         "weight": "30%"
       },
       "reputation": {
@@ -13737,7 +13707,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -13822,7 +13792,7 @@
     "description": "Build a lean coding agent in Python with the same performance in far less code"
   },
   {
-    "total": 81,
+    "total": 80,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -13831,7 +13801,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 52,
+        "score": 51,
         "weight": "30%"
       },
       "reputation": {
@@ -13850,36 +13820,6 @@
     "description": "AI-powered receipt scanning & bookkeeping skill for OpenClaw/Claude Code. Automates renaming and CSV logging."
   },
   {
-    "total": 61,
-    "level": "CAUTION",
-    "label": "🔶 仅限受控环境测试",
-    "breakdown": {
-      "safety": {
-        "score": 42,
-        "weight": "50%"
-      },
-      "maintenance": {
-        "score": 67,
-        "weight": "30%"
-      },
-      "reputation": {
-        "score": 100,
-        "weight": "20%"
-      }
-    },
-    "flags": [
-      "检测到 18 处危险系统调用（exec/subprocess等）",
-      "检测到 1 处网络外发调用且 README 无说明",
-      "检测到 32 处环境变量/文件/剪贴板访问",
-      "无已关闭 Issue 记录，响应速度未知"
-    ],
-    "owner": "walleky",
-    "repo": "vortex-skyrimse-mcp",
-    "repo_url": "https://github.com/walleky/vortex-skyrimse-mcp",
-    "stars": 1,
-    "description": "OpenClaw-compatible MCP server for diagnosing Windows Vortex Skyrim SE mods, profiles, conflicts, deployment, SKSE, and INI settings."
-  },
-  {
     "total": 70,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
@@ -13889,7 +13829,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 65,
+        "score": 66,
         "weight": "30%"
       },
       "reputation": {
@@ -13900,7 +13840,7 @@
     "flags": [
       "检测到 2 处危险系统调用（exec/subprocess等）",
       "未检测到语义化版本号或 Release 记录",
-      "Issue 中出现 210 次安全相关负面词汇"
+      "Issue 中出现 211 次安全相关负面词汇"
     ],
     "owner": "sip-protocol",
     "repo": "sipher",
@@ -14184,7 +14124,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 86,
+        "score": 85,
         "weight": "30%"
       },
       "reputation": {
@@ -14360,7 +14300,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 38,
+        "score": 37,
         "weight": "30%"
       },
       "reputation": {
@@ -14851,7 +14791,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 38,
+        "score": 37,
         "weight": "30%"
       },
       "reputation": {
@@ -14911,7 +14851,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 78,
+        "score": 77,
         "weight": "30%"
       },
       "reputation": {
@@ -14995,7 +14935,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 74,
+        "score": 73,
         "weight": "30%"
       },
       "reputation": {
@@ -15342,7 +15282,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 81,
+        "score": 80,
         "weight": "30%"
       },
       "reputation": {
@@ -15806,7 +15746,7 @@
     "description": "Ultimate AI Static Site Generator 2026 – Free No-Lock-in Build Tool for Claude & Cursor"
   },
   {
-    "total": 75,
+    "total": 76,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -15815,7 +15755,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 84,
+        "score": 85,
         "weight": "30%"
       },
       "reputation": {
@@ -16093,7 +16033,7 @@
     "owner": "openclaw",
     "repo": "agent-skills",
     "repo_url": "https://github.com/openclaw/agent-skills",
-    "stars": 1104,
+    "stars": 1105,
     "description": "Useful skills for agents and claws."
   },
   {
@@ -16561,7 +16501,7 @@
     "owner": "doane2002cn",
     "repo": "moontv-openclaw-skill",
     "repo_url": "https://github.com/doane2002cn/moontv-openclaw-skill",
-    "stars": 25,
+    "stars": 5,
     "description": "Daily movie and TV show info push skill, supports OpenClaw, and saves tokens."
   },
   {
@@ -16715,16 +16655,16 @@
     "description": null
   },
   {
-    "total": 65,
-    "level": "REVIEW",
-    "label": "⚠️  建议人工复核后使用",
+    "total": 64,
+    "level": "CAUTION",
+    "label": "🔶 仅限受控环境测试",
     "breakdown": {
       "safety": {
         "score": 69,
         "weight": "50%"
       },
       "maintenance": {
-        "score": 44,
+        "score": 43,
         "weight": "30%"
       },
       "reputation": {
@@ -16917,7 +16857,7 @@
     "owner": "lf4096",
     "repo": "openclaw-seatalk",
     "repo_url": "https://github.com/lf4096/openclaw-seatalk",
-    "stars": 13,
+    "stars": 14,
     "description": "OpenClaw channel plugin for SeaTalk"
   },
   {
@@ -17077,7 +17017,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 41,
+        "score": 40,
         "weight": "30%"
       },
       "reputation": {
@@ -17106,7 +17046,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 41,
+        "score": 40,
         "weight": "30%"
       },
       "reputation": {
@@ -17135,7 +17075,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 41,
+        "score": 40,
         "weight": "30%"
       },
       "reputation": {
@@ -17155,7 +17095,7 @@
     "description": "OpenClaw skill for repairing and verifying Control UI session history titles"
   },
   {
-    "total": 87,
+    "total": 86,
     "level": "SAFE",
     "label": "✅ 推荐使用",
     "breakdown": {
@@ -17164,7 +17104,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 56,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -17349,9 +17289,9 @@
       }
     },
     "flags": [
-      "检测到 75 处危险系统调用（exec/subprocess等）",
+      "检测到 76 处危险系统调用（exec/subprocess等）",
       "检测到 6 处网络外发调用且 README 无说明",
-      "检测到 226 处环境变量/文件/剪贴板访问"
+      "检测到 230 处环境变量/文件/剪贴板访问"
     ],
     "owner": "02-dino",
     "repo": "dinomem",
@@ -17485,7 +17425,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 98,
+        "score": 97,
         "weight": "30%"
       },
       "reputation": {
@@ -17505,7 +17445,7 @@
     "description": "Secure file browser, markdown viewer, and webhook gateway. Browse files, render Markdown with Mermaid diagrams, export to PDF/DOCX, share with expiring links. Built with Fastify + React. Runs on Windows and Linux."
   },
   {
-    "total": 57,
+    "total": 56,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -17514,7 +17454,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 72,
+        "score": 71,
         "weight": "30%"
       },
       "reputation": {
@@ -17995,7 +17935,7 @@
     "repo": "tweetclaw",
     "repo_url": "https://github.com/Xquik-dev/tweetclaw",
     "stars": 94,
-    "description": "OpenClaw plugin for Twitter search, follower exports, monitoring & approved X actions. Not affiliated with X Corp."
+    "description": "OpenClaw Twitter plugin & skill for tweet search, follower exports, monitoring & X actions. Not affiliated with X Corp."
   },
   {
     "total": 56,
@@ -18108,7 +18048,7 @@
       "检测到 64 处危险系统调用（exec/subprocess等）",
       "检测到 9 处网络外发调用且 README 无说明",
       "检测到 156 处环境变量/文件/剪贴板访问",
-      "Issue 平均关闭时长 33 天",
+      "Issue 平均关闭时长 34 天",
       "未检测到语义化版本号或 Release 记录",
       "Issue 中出现 187 次安全相关负面词汇"
     ],
@@ -18516,7 +18456,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 100,
+        "score": 99,
         "weight": "30%"
       },
       "reputation": {
@@ -18989,7 +18929,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 58,
+        "score": 57,
         "weight": "30%"
       },
       "reputation": {
@@ -19035,7 +18975,7 @@
     "description": "Per-agent MCP tool access control plugin for OpenClaw"
   },
   {
-    "total": 96,
+    "total": 95,
     "level": "SAFE",
     "label": "✅ 推荐使用",
     "breakdown": {
@@ -19044,7 +18984,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 85,
+        "score": 84,
         "weight": "30%"
       },
       "reputation": {
@@ -19071,7 +19011,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 73,
+        "score": 72,
         "weight": "30%"
       },
       "reputation": {
@@ -19090,7 +19030,7 @@
     "description": "OpenClaw Skill: Scrape AC web page, then email AP device health report"
   },
   {
-    "total": 62,
+    "total": 61,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -19099,7 +19039,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 55,
+        "score": 54,
         "weight": "30%"
       },
       "reputation": {
@@ -19129,7 +19069,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 43,
+        "score": 42,
         "weight": "30%"
       },
       "reputation": {
@@ -19158,7 +19098,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 43,
+        "score": 42,
         "weight": "30%"
       },
       "reputation": {
@@ -19187,7 +19127,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 73,
+        "score": 72,
         "weight": "30%"
       },
       "reputation": {
@@ -19264,7 +19204,7 @@
     "description": " Agent skill for personal finance — log expenses, import statements, track budgets and trades via the Orchune MCP server. Works with Claude Code, Hermes, and OpenClaw."
   },
   {
-    "total": 63,
+    "total": 64,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -19273,7 +19213,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -19538,7 +19478,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 44,
+        "score": 43,
         "weight": "30%"
       },
       "reputation": {
@@ -19568,7 +19508,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 44,
+        "score": 43,
         "weight": "30%"
       },
       "reputation": {
@@ -19881,7 +19821,7 @@
     "description": "Build a longevity skill system for OpenClaw with risk scores, reminder schedules, nutrition tracking, and weekly/monthly reports"
   },
   {
-    "total": 83,
+    "total": 84,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -19890,7 +19830,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -19967,7 +19907,7 @@
     "owner": "JuneYaooo",
     "repo": "gpt-image2-ppt-skills",
     "repo_url": "https://github.com/JuneYaooo/gpt-image2-ppt-skills",
-    "stars": 1351,
+    "stars": 1353,
     "description": "Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板\"抄\"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill. "
   },
   {
@@ -19996,7 +19936,7 @@
     "owner": "SummerSec",
     "repo": "LOF_Arbiter",
     "repo_url": "https://github.com/SummerSec/LOF_Arbiter",
-    "stars": 11,
+    "stars": 12,
     "description": "LOF_Arbiter (套利)"
   },
   {
@@ -20029,7 +19969,7 @@
     "description": "Build a self-hosted health AI agent with open-source OpenClaw skills, private data, and Telegram access on low-bandwidth devices"
   },
   {
-    "total": 55,
+    "total": 54,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -20038,7 +19978,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 99,
+        "score": 98,
         "weight": "30%"
       },
       "reputation": {
@@ -20176,7 +20116,7 @@
     "description": "这是一款专注于小红书数据挖掘的工具。它能够穿透小红书的公开数据层，为你提供深度的竞品监控、趋势预测和KOL 筛选服务。无论你是内容创作者、品牌营销人员还是市场分析师，都能通过此工具获取决策支持。"
   },
   {
-    "total": 69,
+    "total": 68,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -20185,7 +20125,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 46,
+        "score": 45,
         "weight": "30%"
       },
       "reputation": {
@@ -20273,7 +20213,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -20363,7 +20303,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 61,
+        "score": 60,
         "weight": "30%"
       },
       "reputation": {
@@ -20603,7 +20543,7 @@
     },
     "flags": [
       "Issue 中出现 58 次安全相关负面词汇",
-      "发布者账号较新（78 天）",
+      "发布者账号较新（79 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "heichaowo",
@@ -20639,7 +20579,7 @@
     "owner": "juventini10",
     "repo": "Five-layer-memory-system",
     "repo_url": "https://github.com/juventini10/Five-layer-memory-system",
-    "stars": 18,
+    "stars": 19,
     "description": "🧠 布洛陀·五层记忆系统 v2.1.0 · 一包适配7端：WorkBuddy·Qoder CN·Trae Work·ZCode·豆包办公·Hermes（未适配完毕）·LobsterAI（未适配完毕）·（千问/TeleAgent规划中）· macOS/Windows"
   },
   {
@@ -20813,7 +20753,7 @@
     "description": "A simple AI-powered File Organizer Agent built with OpenClaw, Ollama, Gemma 3, and Python. The agent organizes files into categorized folders using a custom OpenClaw Skill."
   },
   {
-    "total": 44,
+    "total": 46,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -20822,7 +20762,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 45,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -21079,7 +21019,7 @@
     "owner": "NevaMind-AI",
     "repo": "memU",
     "repo_url": "https://github.com/NevaMind-AI/memU",
-    "stars": 14535,
+    "stars": 14537,
     "description": "Personal memory across agents"
   },
   {
@@ -21233,7 +21173,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 47,
+        "score": 46,
         "weight": "30%"
       },
       "reputation": {
@@ -21249,7 +21189,7 @@
     "owner": "CarlWangChina",
     "repo": "zhigui-openclaw-ui-second-brain-skill",
     "repo_url": "https://github.com/CarlWangChina/zhigui-openclaw-ui-second-brain-skill",
-    "stars": 103,
+    "stars": 22,
     "description": "An advanced, UI-powered AI second brain Agent Skill for OpenClaw, Hermes Agent, WorkBuddy, TRAE, and QClaw. ZhiGui uses long-term memory to help you make better decisions, automatically plan tomorrow, resolve conflicting notes, and deliver each day's plan through your existing agent channels."
   },
   {
@@ -21380,7 +21320,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 70,
+        "score": 69,
         "weight": "30%"
       },
       "reputation": {
@@ -21605,7 +21545,7 @@
     "owner": "sergebulaev",
     "repo": "instagram-skills",
     "repo_url": "https://github.com/sergebulaev/instagram-skills",
-    "stars": 386,
+    "stars": 400,
     "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. Draft, humanize, and publish via Publora. MIT. Content engineering by Creative Content Crafts."
   },
   {
@@ -21635,7 +21575,7 @@
     "owner": "sergebulaev",
     "repo": "linkedin-skills",
     "repo_url": "https://github.com/sergebulaev/linkedin-skills",
-    "stars": 4597,
+    "stars": 4656,
     "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT."
   },
   {
@@ -21694,7 +21634,7 @@
     "owner": "sergebulaev",
     "repo": "youtube-skills",
     "repo_url": "https://github.com/sergebulaev/youtube-skills",
-    "stars": 54,
+    "stars": 56,
     "description": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR titles, SEO descriptions, retention hooks, thumbnails, and a content plan. Publish via Publora. MIT. Content engineering by Creative Content Crafts."
   },
   {
@@ -21724,7 +21664,7 @@
     "owner": "sergebulaev",
     "repo": "tiktok-skills",
     "repo_url": "https://github.com/sergebulaev/tiktok-skills",
-    "stars": 71,
+    "stars": 72,
     "description": "TikTok marketing skills for Claude Code and Codex: 3-second video hooks, captions, trend mapping, and a weekly plan. Draft, humanize, and publish via Publora. MIT. Content engineering by Creative Content Crafts."
   },
   {
@@ -21754,7 +21694,7 @@
     "owner": "sergebulaev",
     "repo": "x-skills",
     "repo_url": "https://github.com/sergebulaev/x-skills",
-    "stars": 128,
+    "stars": 130,
     "description": "X (Twitter) marketing skills for Claude Code and Codex: write tweets, threads, and replies in your voice, strip AI tells, and publish via Publora. Open source, MIT. Content engineering by Creative Content Crafts."
   },
   {
@@ -22147,7 +22087,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 47,
+        "score": 46,
         "weight": "30%"
       },
       "reputation": {
@@ -22169,7 +22109,7 @@
     "description": null
   },
   {
-    "total": 67,
+    "total": 66,
     "level": "REVIEW",
     "label": "⚠️  建议人工复核后使用",
     "breakdown": {
@@ -22178,7 +22118,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 47,
+        "score": 46,
         "weight": "30%"
       },
       "reputation": {
@@ -22385,7 +22325,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 93,
+        "score": 92,
         "weight": "30%"
       },
       "reputation": {
@@ -22699,16 +22639,16 @@
     "description": null
   },
   {
-    "total": 85,
-    "level": "SAFE",
-    "label": "✅ 推荐使用",
+    "total": 84,
+    "level": "REVIEW",
+    "label": "⚠️  建议人工复核后使用",
     "breakdown": {
       "safety": {
         "score": 100,
         "weight": "50%"
       },
       "maintenance": {
-        "score": 69,
+        "score": 68,
         "weight": "30%"
       },
       "reputation": {
@@ -22736,7 +22676,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 50,
+        "score": 49,
         "weight": "30%"
       },
       "reputation": {
@@ -22913,7 +22853,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 54,
+        "score": 55,
         "weight": "30%"
       },
       "reputation": {
@@ -22985,7 +22925,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（65 天）",
+      "发布者账号较新（66 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "hardwandsoftw-it",
@@ -23016,7 +22956,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（54 天）"
+      "发布者账号较新（55 天）"
     ],
     "owner": "Verificate-Dev",
     "repo": "verificate-clawhub-skill-cn",
@@ -23046,7 +22986,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（54 天）"
+      "发布者账号较新（55 天）"
     ],
     "owner": "Verificate-Dev",
     "repo": "verificate-clawhub-skill",
@@ -23077,7 +23017,7 @@
       "检测到 1 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（68 天）",
+      "发布者账号较新（69 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "yintao-gh",
@@ -23225,7 +23165,7 @@
     "owner": "jangviktor-web",
     "repo": "nihaixia",
     "repo_url": "https://github.com/jangviktor-web/nihaixia",
-    "stars": 3536,
+    "stars": 3542,
     "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。"
   },
   {
@@ -23341,7 +23281,7 @@
     "description": "Reusable Binance narrative intelligence skill for OpenClaw"
   },
   {
-    "total": 64,
+    "total": 63,
     "level": "CAUTION",
     "label": "🔶 仅限受控环境测试",
     "breakdown": {
@@ -23350,7 +23290,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 49,
+        "score": 48,
         "weight": "30%"
       },
       "reputation": {
@@ -23362,7 +23302,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（84 天）",
+      "发布者账号较新（85 天）",
       "发布者仅有 2 个公开仓库，背景单薄"
     ],
     "owner": "zack-hayesuapy7545",
@@ -23538,7 +23478,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（59 天）",
+      "发布者账号较新（60 天）",
       "发布者仅有 1 个公开仓库，背景单薄"
     ],
     "owner": "relaxas319",
@@ -23975,7 +23915,7 @@
       "检测到 2 处环境变量/文件/剪贴板访问",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（52 天）"
+      "发布者账号较新（53 天）"
     ],
     "owner": "maverickcoderbot",
     "repo": "openclaw-skills",
@@ -24208,7 +24148,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（54 天）"
+      "发布者账号较新（55 天）"
     ],
     "owner": "VerificateAI",
     "repo": "verificate-clawhub-skill-cn",
@@ -24238,7 +24178,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（54 天）"
+      "发布者账号较新（55 天）"
     ],
     "owner": "VerificateAI",
     "repo": "verificate-clawhub-skill",
@@ -24335,7 +24275,7 @@
     "owner": "SkillNerds",
     "repo": "xskill",
     "repo_url": "https://github.com/SkillNerds/xskill",
-    "stars": 128,
+    "stars": 129,
     "description": "Self-evolving skills lib for coding agents"
   },
   {
@@ -24395,7 +24335,7 @@
     "owner": "MrGeDiao",
     "repo": "shuorenhua",
     "repo_url": "https://github.com/MrGeDiao/shuorenhua",
-    "stars": 2074,
+    "stars": 2089,
     "description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts."
   },
   {
@@ -24426,7 +24366,7 @@
     "owner": "Yuan1z0825",
     "repo": "nature-skills",
     "repo_url": "https://github.com/Yuan1z0825/nature-skills",
-    "stars": 47789,
+    "stars": 48084,
     "description": "符合nature论文学术表达和科研绘图的Skill"
   },
   {
@@ -24439,7 +24379,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 97,
+        "score": 96,
         "weight": "30%"
       },
       "reputation": {
@@ -24535,7 +24475,7 @@
       "README 未声明所需权限",
       "无已关闭 Issue 记录，响应速度未知",
       "未检测到语义化版本号或 Release 记录",
-      "发布者账号较新（44 天）"
+      "发布者账号较新（45 天）"
     ],
     "owner": "openswitchboard-ai",
     "repo": "openclaw-skill",
@@ -24584,7 +24524,7 @@
         "weight": "50%"
       },
       "maintenance": {
-        "score": 50,
+        "score": 49,
         "weight": "30%"
       },
       "reputation": {
